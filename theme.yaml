@@ -1,0 +1,14 @@
+# copykat viewer color palette. Copy to ~/.copykat/theme.yaml to activate.
+
+background: 
+  color: "#000B18"   # screen + message-list background   
+  hover: "#1a2538"   # lighter tone of the background (highlighted row)
+   
+foreground: 
+  color: "#dddddd"   # body text
+  hover: "#ffffff"   # highlighted-row text
+  accent: "#56B6C2"  # teal: title bar, toasts, mark border
+
+notice:
+  color: "#E5C07B"   # toast background (soft amber)
+  text: "#000B18"    # toast text (navy, for contrast on amber)
