@@ -1,5 +1,7 @@
 # copykat
 
+![copykat demo](copykat.gif)
+
 Stop copy-pasting terminal output into your AI agent.
 
 `copykat` records your shell's output to an in-memory ring buffer and gives you
